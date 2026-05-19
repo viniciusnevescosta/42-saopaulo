@@ -1,6 +1,6 @@
 #include <unistd.h>
 
-void ft_is_negative(int n);
+void    ft_is_negative(int n);
 int ft_atoi(char *str);
 
 int main(int argc, char **argv)
@@ -16,9 +16,9 @@ int main(int argc, char **argv)
     return (0);
 }
 
-void ft_is_negative(int n)
+void    ft_is_negative(int n)
 {
-    char letter;
+    char    letter;
 
     if (n < 0)
         letter = 'N';

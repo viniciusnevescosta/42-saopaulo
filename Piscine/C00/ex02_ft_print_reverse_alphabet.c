@@ -1,6 +1,6 @@
 #include <unistd.h>
 
-void ft_print_reverse_alphabet(void);
+void    ft_print_reverse_alphabet(void);
 
 int main(void)
 {
@@ -8,9 +8,9 @@ int main(void)
     return (0);
 }
 
-void ft_print_reverse_alphabet(void)
+void    ft_print_reverse_alphabet(void)
 {
-    char letter;
+    char    letter;
 
     letter = 'z';
     while (letter >= 'a')
