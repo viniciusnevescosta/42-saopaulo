@@ -9,7 +9,7 @@ This is a WIP repository.
 ## How to execute the tests
 
 1. You should have [fish shell](https://fishshell.com) installed on your computer, it's my preferred shell env and also the one used on 42 school computers;
-2. Then, you should garent permissions to the script;
+2. Then, you should guarantee permissions to the script;
 - e.g ```chmod +x tests/libft/test.fish```.
 3. You should use the script passing the correct path alongside it.
 - e.g ```./tests/libft/test.fish ./common-core/libft```.
