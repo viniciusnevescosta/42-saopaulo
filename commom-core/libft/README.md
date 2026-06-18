@@ -132,7 +132,6 @@ typedef struct s_list
 
 ### References
 
-- [The C Programming Language — Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Linux man pages](https://man7.org/linux/man-pages/) — primary reference for all reimplemented functions
 - [42 Norm v4.1](https://github.com/42School/norminette) — coding standard applied throughout
 - [norminette](https://github.com/42School/norminette) — automated norm checker
