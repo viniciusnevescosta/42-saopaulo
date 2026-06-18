@@ -7,7 +7,7 @@ char	*ft_strchr(const char *s, int c)
 	unsigned char	letter;
 
 	i = 0;
-	str = (unsigned char *)str;
+	str = (unsigned char *)s;
 	letter = (unsigned char)c;
 	while (str[i])
 	{

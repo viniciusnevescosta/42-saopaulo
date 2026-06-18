@@ -1,10 +1,10 @@
 #include "libft.h"
 
-int	ft_toupper(int c)
+int	ft_tolower(int c)
 {
-	if (c >= 'a' && c <= 'z')
+	if (c >= 'A' && c <= 'Z')
 	{
-		c -= 'a' - 'A';
+		c += 'a' - 'A';
 	}
 
 	return (c);
