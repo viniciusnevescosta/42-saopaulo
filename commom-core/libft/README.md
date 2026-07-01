@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by \<your_login\>.*
+*This project has been created as part of the 42 curriculum by vneves-c.*
 
 # libft
 
@@ -27,7 +27,7 @@ The project is divided into three parts:
 Clone the repository and run `make` at the root:
 
 ```sh
-git clone <your_repo_url>
+git clone https://github.com/viniciusnevescosta/42-saopaulo
 cd libft
 make
 ```
@@ -132,7 +132,6 @@ typedef struct s_list
 
 ### References
 
-- [Linux man pages](https://man7.org/linux/man-pages/) — primary reference for all reimplemented functions
 - [42 Norm v4.1](https://github.com/42School/norminette) — coding standard applied throughout
 - [norminette](https://github.com/42School/norminette) — automated norm checker
 
